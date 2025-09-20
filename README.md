@@ -3,7 +3,9 @@
 
 # Interactive Hertzsprung–Russell Diagram Explorer
 
-An interactive R Shiny dashboard for visualizing and exploring astrophysical data of nearby stars. ### [View the Live Application on shinyapps.io](https://surajshrestha.shinyapps.io/Interactive_Hertzsprung_Russell_Diagram_App/)
+An interactive R Shiny dashboard for visualizing and exploring astrophysical data of nearby stars.
+
+### [View the Live Application on shinyapps.io](https://surajshrestha.shinyapps.io/Interactive_Hertzsprung_Russell_Diagram_App/)
 
 
 ## Project Overview
